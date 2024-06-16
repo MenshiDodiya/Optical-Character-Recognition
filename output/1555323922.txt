@@ -1,0 +1,78 @@
+Ia‘
+690Gb
+
+techopedm IIJPIBS v WEBINARS nnwuumus mcnnunnv TUIIJRIALS nu RESOURCES IRENDING: vmrun
+
+-TH‘
+
+A
+
+E 0 Type hereto search
+
+A What is an Applicatlonl X l
+
+ 
+
++\/
+
+wwwlechopedla com : am
+
+Techopedia explains Application Programming Interface
+(API)
+
+The API is a library of available Java classes, packages and interfaces.
+The three API types are as follows:
+
+- Official Java core API, which is bundled with the JDK download
+
+- Optional ofﬁcial Java APls, which may be downloaded if needed
+
+- Unofﬁcial APls, which are third-party APls that may be downloaded
+from source websites
+
+The APls help programmers detennine class or package functions,
+parameters and other necessary information. The official API includes
+packages, e.g., applet packages, graphics and GUI swing packages,
+inputloutpui (IO) packages and Abstract Windows Toolkit (AWT), among
+others.
+
+There are three frames when an API starts, as follows:
+
+- The first frame shows all API components (classes and packages).
+
+- When a panicular package is selected, the second frame shows all
+interfaces, classes and exceptions of that particular package.
+
+- The third and primary frame provides an overview of all of API
+packages, which can be expanded in the main frame to show the
+index, class hierarchy and help sections.
+
+-n..-.. .4,.47...'a.
+
+  
+
+ 
+
+  
+
+ 
+
+What's really golng on in that
+ClSCO ASA of yours?
+
+E-Book: Compliance is Not
+Enough: Planning a Complete
+Security Strategy:
+
+BUY HEALTH INSURANCE
+
+LATEST ARTICLES
+
+ 
+
+23 57
+
+‘V: 28—m—2m9
+
+ 
+
